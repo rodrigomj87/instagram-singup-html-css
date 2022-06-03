@@ -1,6 +1,6 @@
 # Instagram-singup-html-css
 
-Desafio de projeto da plataforma DIO.
+Desafio de projeto da plataforma DIO. O desafio consiste em construir uma copia identica a pagina de login do Instagram
 
 
 ## Demo
